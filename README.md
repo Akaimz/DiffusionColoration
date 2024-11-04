@@ -1,5 +1,5 @@
 #########
-Image Recoloration using diffusion imaging
+Image Recoloration using Denoising Diffusion Probabilistic Models (DDPMs)
 ##########
 
 The Network learns to do a reconstruction step and can therefore recreate the base image to some accuracy from a completly noised input.
